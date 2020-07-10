@@ -1,8 +1,8 @@
-# Principles for a Common Legal Platform (CLP)
+# A Common Legal Platform (CLP)
 
 Publisher: **Liquid Legal Institute e.V.**  
-Authors: Kai Jacob, Dr. Dierk Schindler, Dr. Jens Wagner, Dr. Bernhard Waltl  
-Editing: Dr. Roger Strathausen  
+Authors: Kai Jacob, Dierk Schindler, Jens Wagner, Bernhard Waltl  
+Editing: Roger Strathausen  
 
 ## Preface
 
