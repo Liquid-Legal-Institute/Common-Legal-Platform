@@ -162,7 +162,7 @@ The Liquid Legal Institute e.V. is a non-profit organization incorporated as a r
 > For more information about us and about what drives us visit www.liquid-legal-institute.org
 
 ## Imprint
-Liquid Legal Institute e.V.
+Liquid Legal Institute e.V.  
 Munich (Germany)
 
 Office address:  
