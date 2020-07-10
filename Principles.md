@@ -179,8 +179,8 @@ Office address:
 Almenrausch 25, 85521 Ottobrunn, Germany  
 E-Mail: info@liquid-legal-institute.org
 
-Management board in the terms of § 26 BGB: Kai Jacob (Chairperson), Dr. Dierk Schindler, Dr. Bernhard Waltl  
-Executive director: Dr. Dierk Schindler  
+Management board in the terms of § 26 BGB: Kai Jacob (Chairperson), Dierk Schindler, Bernhard Waltl  
+Executive director: Dierk Schindler  
 Register of associations: Amtsgericht München  
 Registration number: VR 207699  
 
