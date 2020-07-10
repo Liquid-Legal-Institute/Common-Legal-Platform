@@ -4,6 +4,16 @@ Publisher: **Liquid Legal Institute e.V.**
 Authors: Kai Jacob, Dierk Schindler, Jens Wagner, Bernhard Waltl  
 Editing: Roger Strathausen  
 
+### Table Of Contents
+- [Preface](#preface)
+- [Principles for a Common Legal Platform](#principles-for-a-common-legal-platform)
+  * [A. Defining the Common Legal Platform](#a-defining-the-common-legal-platform)
+  * [B. Setting up the structure and the technical standards of the Common Legal Platform](#b-setting-up-the-structure-and-the-technical-standards-of-the-common-legal-platform)
+  * [C. Ensure that the use of the Common Legal Platform is in the interest of all](#c-ensure-that-the-use-of-the-common-legal-platform-is-in-the-interest-of-all)
+  * [D. Establishing a governance structure for administrating the Common Legal Platform](#d-establishing-a-governance-structure-for-administrating-the-common-legal-platform)
+- [The Liquid Legal Institute e.V.](#the-liquid-legal-institute-ev)
+- [Imprint](#imprint)
+
 ## Preface
 
 The legal ecosystem is undergoing an extraordinary period of change and disruption. It is being reshaped by the rapid advance in technology and the massive growth and fragmentation of the legal services market. In addition, cost pressure, regulatory overload,the challenges of scale and global reach, and changes in the work place expectation of a new generation of lawyers have been the drivers of transformation within the last decade. At the same time, entirely new expectations emerge not only regarding what the in-house legal function and their external advisors should contribute to their client’s business, but also regarding what law-makers, public administration, justice and the legal ecosystem as a whole should contribute to society.
@@ -16,7 +26,7 @@ We would like to put these Principles up for discussion and invite all members o
 
 Help us to shape and implement these principles. Let’s design the future!
 
-## Principles for a Common Legal Platform (CLP)
+## Principles for a Common Legal Platform
 
 ### A. Defining the Common Legal Platform
 
