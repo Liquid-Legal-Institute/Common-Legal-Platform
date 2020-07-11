@@ -20,7 +20,7 @@ The legal ecosystem is undergoing an extraordinary period of change and disrupti
 
 The legal ecosystem must adapt to this disruptive change, while also reflecting the particular importance of law. Increasing digitalization and new ways of thinking also offer unprecedented opportunities to meet the new and growing demands. In 2015, the idea of a Common Legal Platform (**CLP**) was born. It was publicly presented for the first time in K. Jacob, D. Schindler, & R. Strathausen (Eds.), Liquid Legal – Transforming Legal into a Business Savvy, Information Enabled and Performance Driven Industry. The first open discussion on the CLP was initiated at the Liquid Legal Conference in 2017. In 2018, with the formation of the Liquid Legal Institute e.V., a legal structure was set up within which all stakeholders can drive the development of the CLP.
 
-In recent years, a number of (mostly commercial) platforms have emerged that have already incorporated certain elements of the CLP. These initiatives show that the vision of a CLP is not anutopia, but a realistic option for an efficient legal ecosystem. To ensure that the various individual contributions ultimately result in a CLP that serves the interests of all, it is important to define the essential features, structure and functionality of the CLP at an early stage. For this purpose, we have drafted the following “Principles for a Common Legal Platform”.
+In recent years, a number of (mostly commercial) platforms have emerged that have already incorporated certain elements of the CLP. These initiatives show that the vision of a CLP is not an utopia, but a realistic option for an efficient legal ecosystem. To ensure that the various individual contributions ultimately result in a CLP that serves the interests of all, it is important to define the essential features, structure and functionality of the CLP at an early stage. For this purpose, we have drafted the following “Principles for a Common Legal Platform”.
 
 We would like to put these Principles up for discussion and invite all members of the Liquid Legal Institute e.V., especially the authors of the second volume of the Liquid Legal series (K. Jacob, D. Schindler, & R. Strathausen (Eds.), Liquid Legal – Towards a Common Legal Platform), but also all other interested stakeholders, to comment, supplement and elaborate on these principles. To enable a truly open collaboration towards realizing the CLP, we have made the “Principles for a Common Legal Platform” available on GitHub.
 
@@ -137,7 +137,7 @@ The nature of the CLP requires that the CLP is in the interest of all. To ensure
  
 ### D. Establishing a governance structure for administrating the Common Legal Platform
 
-To ensure that the CLP is in the interest of all, it also requires a governance (communing rules) structure that is aligned to the objective of neutrality, openness, and to form a trusted environment that supports innovations and new ideas.
+To ensure that the CLP is in the interest of all, it also requires a governance structure (commoning rules) that is aligned to the objective of neutrality, openness, and to form a trusted environment that supports innovations and new ideas.
 
    1. Objective of the governance structure
    
