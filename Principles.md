@@ -151,7 +151,7 @@ To ensure that the CLP is in the interest of all, it also requires a governance 
 
    1. Objective of the governance structure
    
-      - The governance structure must be designed to
+      The governance structure must be designed to
       - implement the principles for a CLP;
       - establish, and monitor the compliance of, the rules and values of the CLP;
       - develop and implement widely accepted legal and technical standards;
@@ -165,7 +165,7 @@ To ensure that the CLP is in the interest of all, it also requires a governance 
       - transparency.
    3. Mitigating risks
    
-      The governance structure shall be capable of preventing certain negative impacts, in particular:
+      The governance structure shall be capable of preventing certain negative impacts, in particular
       - abuse of the CLP by individuals, criminal organizations or authoritarian regimes;
       - discrimination and exclusion; 
       - unfair competition.
