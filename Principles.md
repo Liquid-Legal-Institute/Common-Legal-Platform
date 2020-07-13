@@ -22,7 +22,7 @@ The legal ecosystem must reinvent itself, while also reflecting the particular i
 
 In recent years, a number of (mostly commercial) platforms have emerged that have already incorporated certain elements of the CLP. These initiatives show that the vision of a CLP is not an utopia, but a realistic option for an efficient legal ecosystem. To ensure that the various individual contributions ultimately result in a CLP that serves the interests of all, it is important to define the essential features, structure and functionality of the CLP at an early stage. For this purpose, we have drafted the following “Principles for a Common Legal Platform”.
 
-We would like to put these Principles up for discussion and invite all members of the Liquid Legal Institute e.V., especially the authors of the second volume of the Liquid Legal series (K. Jacob, D. Schindler, & R. Strathausen (Eds.), Liquid Legal – Towards a Common Legal Platform), but also all other interested stakeholders, to comment, supplement and elaborate on these principles. To enable a truly open collaboration towards realizing the CLP, we have made the “Principles for a Common Legal Platform” available on GitHub. You can contribute either via GitHub (Liquid-Legal-Institute/Common-Legal-Platform) or by sending us an e-mail (clp.principles@liquid-legal-institute.org). If you are a member of the Liquid Legal Institute, you are invited to contribute also vie MS Teams (Common Legal Platform/Principles).
+We would like to put these Principles up for discussion and invite all members of the Liquid Legal Institute e.V., especially the authors of the second volume of the Liquid Legal series (K. Jacob, D. Schindler, & R. Strathausen (Eds.), Liquid Legal – Towards a Common Legal Platform), but also all other interested stakeholders, to comment, supplement and elaborate on these principles. To enable a truly open collaboration towards realizing the CLP, we have made the “Principles for a Common Legal Platform” available on GitHub. You can contribute either via GitHub (Liquid-Legal-Institute/Common-Legal-Platform) or by sending us an e-mail (clp.principles@liquid-legal-institute.org). If you are a member of the Liquid Legal Institute, you are invited to contribute also via MS Teams (Common Legal Platform/Principles).
 
 Help us to shape and implement these principles. Let’s design the future!
 
@@ -38,7 +38,7 @@ Help us to shape and implement these principles. Let’s design the future!
       - for co-operation, interaction and exchange in the legal domain.
    2. Purpose
    
-      The CLP aims in particular at
+      The CLP shall aim in particular at
       - leveraging the standardization and simplification of legal content;
       - harmonizing legal processes; 
       - facilitating legal transactions;
@@ -46,7 +46,7 @@ Help us to shape and implement these principles. Let’s design the future!
       - hosting concrete data assets (e.g. commonly accepted documents and standard taxonomy), sharing knowledge and connecting people.
    3. Basis
    
-      The CLP realies on advances in
+      The CLP shall realy on advances in
       - digitalization;
       - standardization;
       - material law; 
@@ -101,6 +101,7 @@ The CLP shall be intended to serve as a place for co-operation, interaction and 
       - a set of common general-purpose markup languages which are used and understood within the entire network;
       - a legal markup language which will facilitate the conversion of legal documents into machine-readable formats in order to enable the automated creation, fulfillment and enforcement of the legal claims contained therein.
    5. Data security
+   
       Data of the participants, of their internal or external clients and of third parties shall be
       - protected in accordance with internationally recognized technical security standards;
       - accessible for each entitled person, which beside the participant might include the client or third person, an auditor etc.; 
@@ -113,7 +114,7 @@ The nature of the CLP requires that the CLP is in the interest of all. To ensure
 
    1. Key values 
    
-      Key values of the CLP are
+      Key values of the CLP shall be
    
       - neutrality;
       - open source;
@@ -164,7 +165,7 @@ To ensure that the CLP is in the interest of all, it also requires a governance 
       - transparency.
    3. Mitigating risks
    
-      The governance structure must be capable of preventing certain negative impacts, in particular:
+      The governance structure shall be capable of preventing certain negative impacts, in particular:
       - abuse of the CLP by individuals, criminal organizations or authoritarian regimes;
       - discrimination and exclusion; 
       - unfair competition.
