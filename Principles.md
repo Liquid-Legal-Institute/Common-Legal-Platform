@@ -82,7 +82,7 @@ The CLP shall be intended to serve as a place for co-operation, interaction and 
       - a security layer that assures secure and encrypted data exchange and storage;
       - an authentication layer that assures the integrity of data and the authenticity of the participants;       
       - a data layer that allows the interoperability and exchange of application data between the different services and components; 
-      - an application layer which supports a modular extension of services and offerings.
+      - an application layer which provides services and offerings and supports modular extensions.
    2. Reflecting current trends and state-of-the-art in computational technologies
    
       The structure and the technical standards of the CLP shall reflect
