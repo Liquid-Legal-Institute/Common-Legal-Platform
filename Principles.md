@@ -135,14 +135,14 @@ The nature of the CLP requires that the CLP is in the interest of all. To ensure
       - act, in any event, in line with the relevant competition regulations.
    4. Ensuring trust
    
-      All participants of the CLP shall have to ensure
-      - data security;
-      - data protection;
-      - transparency;
-      - accessibility;
-      - integrity; 
-      - avoidance of any kind of abuse.
-      
+      The CLP shall comply with internationally recognized technical security standards and the principles of
+      - confidentiality;
+      - integrity;
+      - availability;
+      - authenticity;
+      - non-repudiation; 
+      - accountability;
+      - resilience.
       
  
 ### D. Establishing a governance structure for administrating the Common Legal Platform
