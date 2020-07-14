@@ -75,12 +75,12 @@ Help us to shape and implement these principles. Let’s design the future!
 
 The CLP shall be intended to serve as a place for co-operation, interaction and exchange – not only between people, but also between IT systems and between    people and IT systems. The prerequisites for such co-operation, interaction and exchange in a decentralized network are connecting structural elements and technical standards. Regarding the connecting structural elements and the technical standards, the following principles should apply:
 
-   1. Layered and modular structure of the CLP
+   1. Modular structure of the CLP
    
       The CLP shall be constructed as a stack of technologies being composed of at least
-      - an internet and network layer for communication and data exchange;
-      - a security layer that assures secure and encrypted data exchange;
-      - an authentication layer that assures the integrity of the participants;       
+      - a network layer for communication and data exchange;
+      - a security layer that assures secure and encrypted data exchange and storage;
+      - an authentication layer that assures the integrity of data and the authenticity of the participants;       
       - a data layer that allows the interoperability between the different services and components on the level of data exchange; 
       - an application layer which supports a modular extension of services and offerings.
    2. Reflecting current trends and state-of-the-art in computational technologies
