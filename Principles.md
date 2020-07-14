@@ -100,9 +100,9 @@ The CLP shall be intended to serve as a place for co-operation, interaction and 
       The CLP shall include
       - a set of common general-purpose markup languages which are used and understood within the entire network;
       - a legal markup language which will facilitate the conversion of legal documents into machine-readable formats in order to enable the automated creation, fulfillment and enforcement of the legal claims contained therein.
-   5. Data security
+   5. IT security
    
-      Data of the participants, of their internal or external clients and of third parties shall be
+      Data and services of the participants, of their internal or external clients and of third parties shall be
       - protected in accordance with internationally recognized technical security standards;
       - accessible for each entitled person, which beside the participant might include the client or third person, an auditor etc.; 
       - protected against unauthorized changes (e.g. by DLT).
