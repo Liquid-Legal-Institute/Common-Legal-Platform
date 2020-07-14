@@ -102,10 +102,14 @@ The CLP shall be intended to serve as a place for co-operation, interaction and 
       - a legal markup language which will facilitate the conversion of legal documents into machine-readable formats in order to enable the automated creation, fulfillment and enforcement of the legal claims contained therein.
    5. IT security
    
-      Data and services of the participants, of their internal or external clients and of third parties shall be
-      - protected in accordance with internationally recognized technical security standards;
-      - accessible for each entitled person, which beside the participant might include the client or third person, an auditor etc.; 
-      - protected against unauthorized changes (e.g. by DLT).
+      The CLP shall comply with internationally recognized technical security standards and the principles of
+      - confidentiality
+      - integrity;
+      - availability;
+      - authenticity;
+      - non-repudiation; 
+      - accountability;
+      - resilience.
       
  
 ### C. Ensure that the use of the Common Legal Platform is in the interest of all
@@ -135,14 +139,13 @@ The nature of the CLP requires that the CLP is in the interest of all. To ensure
       - act, in any event, in line with the relevant competition regulations.
    4. Ensuring trust
    
-      The CLP shall comply with internationally recognized technical security standards and the principles of
-      - confidentiality;
-      - integrity;
-      - availability;
-      - authenticity;
-      - non-repudiation; 
-      - accountability;
-      - resilience.
+      All participants of the CLP shall have to ensure
+      - IT security;
+      - data protection;
+      - transparency;
+      - accessibility;
+      - integrity; 
+      - avoidance of any kind of abuse.
       
  
 ### D. Establishing a governance structure for administrating the Common Legal Platform
