@@ -14,6 +14,10 @@ Editing: Roger Strathausen
 - [The Liquid Legal Institute e.V.](Principles.md#the-liquid-legal-institute-ev)
 - [Imprint](Principles.md#imprint)
 
+## CLP Discussion (for LLI Members only)
+> [MS Teams](https://teams.microsoft.com/l/channel/19%3a205858168d574d35973dc45d366d45cc%40thread.skype/CLP%2520Principles?groupId=a98e327d-078e-4f27-a44c-c4930a5a1093&tenantId=f7f1ba90-f358-4d58-bbef-e0ed90225009)
+
+
 ## The Liquid Legal Institute e.V.
 The Liquid Legal Institute e.V. is a non-profit organization incorporated as a registered association (eingetragener Verein) under the laws of Germany. Its purpose, as defined in the articles of association, is to research and promote new ways of thinking and new technologies and other innovations in the legal ecosystem, i.e. so-called Legal Transformation. It is made up of members who belong to different stakeholder groups, including corporates, law firms, legal tech start-ups and individuals. 
 
