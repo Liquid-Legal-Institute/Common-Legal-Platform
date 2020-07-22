@@ -4,7 +4,7 @@ Publisher: **Liquid Legal Institute e.V.**
 Authors: Kai Jacob, Dierk Schindler, Jens Wagner, Bernhard Waltl  
 Editing: Roger Strathausen  
 
-### Table Of Contents
+## Table Of Contents
 - [Preface](Principles.md#preface)
 - [Principles for a Common Legal Platform](Principles.md#principles-for-a-common-legal-platform)
   * [A. Defining the Common Legal Platform](Principles.md#a-defining-the-common-legal-platform)
