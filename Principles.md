@@ -1,4 +1,6 @@
 # A Common Legal Platform (CLP)
+[![LTA](https://img.shields.io/badge/CLP-Ecosystem-blue)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
+[![LTA](https://img.shields.io/badge/CLP-Framework-green)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 
 Publisher: **Liquid Legal Institute e.V.**  
 Authors: Kai Jacob, Dierk Schindler, Jens Wagner, Bernhard Waltl  
