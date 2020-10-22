@@ -7,7 +7,7 @@ Publisher: **Liquid Legal Institute e.V.**
 ### Table Of Contents
 - [Preface](#preface)
 - [Four Layers of a CLP](#four-layers-of-a-clp)
-- [A White-box View on the Foure Layers of a CLP](#a-white-box-view-on-the-foure-layers-of-a-clp)
+- [A White-box View on the Four Layers of a CLP](#a-white-box-view-on-the-four-layers-of-a-clp)
 - [Compatibility and Interoperability of Components within the same Layer ](#compatibility-and-interoperability-of-components-within-the-same-layer)
 - [Compatibility and Interoperability of Components between different Layers ](#compatibility-and-interoperability-of-components-between-different-layers)
 - [The Liquid Legal Institute e.V.](#the-liquid-legal-institute-ev)
@@ -37,7 +37,7 @@ Data layer harmonizes different data structures efficiently and securely, by ens
 
 Technology layer offers infrastructure services (e.g., processing, storage, and communication services) needed to run applications, realized by computer and communication hardware and system software. 
 
-## A White-box View on the Foure Layers of a CLP  
+## A White-box View on the Four Layers of a CLP  
 
 The components and systems within the different layers the contribute to the Common Legal Platform by offering its functionalities and services in a modular way. Thereby, a white-box view on the different layers provides valuable insights for implementation.  
 
