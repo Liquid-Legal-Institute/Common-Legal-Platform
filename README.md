@@ -14,6 +14,11 @@ Editing: Roger Strathausen
   * [B. Setting up the structure and the technical standards of the Common Legal Platform](Principles.md#b-setting-up-the-structure-and-the-technical-standards-of-the-common-legal-platform)
   * [C. Ensure that the use of the Common Legal Platform is in the interest of all](Principles.md#c-ensure-that-the-use-of-the-common-legal-platform-is-in-the-interest-of-all)
   * [D. Establishing a governance structure for administrating the Common Legal Platform](Principles.md#d-establishing-a-governance-structure-for-administrating-the-common-legal-platform)
+- [Implementation Concept](ImplementationConcept.md)
+  * [Four Layers of a CLP](ImplementationConcept.md#four-layers-of-a-clp)
+  * [A White-box View on the Foure Layers of a CLP](ImplementationConcept.md#a-white-box-view-on-the-foure-layers-of-a-clp)
+  * [Compatibility and Interoperability of Components within the same Layer ](ImplementationConcept.md#compatibility-and-interoperability-of-components-within-the-same-layer)
+  * [Compatibility and Interoperability of Components between different Layers ](ImplementationConcept.md#compatibility-and-interoperability-of-components-between-different-layers)
 - [The Liquid Legal Institute e.V.](Principles.md#the-liquid-legal-institute-ev)
 - [Imprint](Principles.md#imprint)
 
