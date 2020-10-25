@@ -92,23 +92,24 @@ Following the CLP Principles, the components within the same layer should suppor
 5. Exchange data using standardized and well-documented, and publicly described format or schema 
 6. Exchange data securely and encrypted  
 7. Not every component must necessarily communicate, i.e. exchange data, with every other component, but the communication should be – in principle – be possible  
-8. If required, authentication and access control using standardized mechanisms (e.g. LDAP, Single Sign-on, etc.) 
-9. Offer a comprehensive description and mapping to the Layers of the Common Legal Platform
-10.Make transparent if and why a CLP principles cannot be considered and implemented
+8. If required, use standardized mechanisms for authentication and access control management (e.g. LDAP, Single Sign-on, etc.) 
+9. Offer a comprehensive description and mapping of components to the Layers of the Common Legal Platform
+10. Make transparent if and why a CLP principles cannot be considered and implemented
 
 ## Compatibility and Interoperability of Components between different Layers 
 
 Following the CLP Principles, the components between different layers should follow the following principles: 
 
-1. Encapsulate inner-working of a component (black-box views)
-2. Separate concerns and responsibilities between layers
-3. Offer functionality via open and non-proprietary interfaces 
-4. Exchange data exchange using a standardized, well-documented, and publicly described format or schema 
-5. Avoid dependencies to systems outside of the CLP 
-6. Minimize downward dependencies: i.e. components should have minimal dependencies to a component from a lower layer (e.g. a component from the application layer should have only the minimum of dependencies on a component from the data layer)
-7. Avoid upward dependencies: i.e. components should have no dependencies to a component from a higher layer (e.g. a component from data layer should not depend on a component from application layer) 
-9. If required, authentication and access control using standardized mechanisms (e.g. LDAP, Single Sign-on, etc.) 
-10.Make transparent if and why a CLP principles cannot be considered and implemented
+1. Provide more abstract and complex tasks in higher layers than in the layers below
+2. Encapsulate inner-working of a component (black-box views)
+3. Separate concerns and responsibilities between layers
+4. Offer functionality via open and non-proprietary interfaces 
+5. Exchange data exchange using a standardized, well-documented, and publicly described format or schema 
+6. Avoid dependencies to systems outside of the CLP 
+7. Minimize downward dependencies: i.e. components should have minimal dependencies to a component from a lower layer (e.g. a component from the application layer should have only the minimum of dependencies on a component from the data layer)
+8. Avoid upward dependencies: i.e. components should have no dependencies to a component from a higher layer (e.g. a component from data layer should not depend on a component from application layer) 
+9. If required, use standardized mechanisms for authentication and access control management (e.g. LDAP, Single Sign-on, etc.)  
+10. Make transparent if and why a CLP principles cannot be considered and implemented
 
 ## The Liquid Legal Institute e.V.
 The Liquid Legal Institute e.V. is a non-profit organization incorporated as a registered association (eingetragener Verein) under the laws of Germany. Its purpose, as defined in the articles of association, is to research and promote new ways of thinking and new technologies and other innovations in the legal ecosystem, i.e. so-called Legal Transformation. It is made up of members who belong to different stakeholder groups, including corporates, law firms, legal tech start-ups and individuals. 
