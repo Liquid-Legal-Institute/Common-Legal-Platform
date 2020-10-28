@@ -19,6 +19,10 @@ Editing: Roger Strathausen
   * [A White-box View on the Foure Layers of a CLP](ImplementationConcept.md#a-white-box-view-on-the-foure-layers-of-a-clp)
   * [Compatibility and Interoperability of Components within the same Layer ](ImplementationConcept.md#compatibility-and-interoperability-of-components-within-the-same-layer)
   * [Compatibility and Interoperability of Components between different Layers ](ImplementationConcept.md#compatibility-and-interoperability-of-components-between-different-layers)
+- [Platform Benefits](PlatformBenefits.md)
+  * [CLP within a Company](PlatformBenefits.md#clp-within-a-company)
+  * [CLP for Governments](PlatformBenefits.md#clp-for-governments)
+  * [Cross-Industry Synergies from the CLP](PlatformBenefits.md#cross-industry-synergies-from-the-clp)
 - [The Liquid Legal Institute e.V.](Principles.md#the-liquid-legal-institute-ev)
 - [Imprint](Principles.md#imprint)
 
