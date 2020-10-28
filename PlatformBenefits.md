@@ -21,7 +21,7 @@ See Preface of [CLP Principles](https://github.com/Liquid-Legal-Institute/Common
 ## CLP within a Company
 Implementing the Common Legal Platform within an enterprise setup or a company allows to leverage many synergies arising in all areas of interaction, consumption, or offering of legal (of all facets) services. This is not only restricted to the legal department. Therefore, conceptualizing and implementing the four layers of the Common Legal Platform is not only beneficial for use cases and scenarios of in-house legal department but for the whole company. 
 
-<img src="images/CLP_comp.png" width="40%">
+<p align="center"><img src="images/CLP_comp.png" width="40%"></p>
 
 ### A White-box View on the CLP within a Company
 
@@ -29,17 +29,17 @@ The four layers have something to offer for every department within a company, e
 
 The different layers sketch the level of abstractness on which collaboration and integration can occur. It might be on a low level of infrastructure and data assets (including knowledge) or on a higher level, such as applications that are commonly used or processes and workflows on the utilization layer.
 
-<img src="images/CLP_comp_whitebox.png" width="40%">
+<p align="center"><img src="images/CLP_comp_whitebox.png" width="40%"></p>
 
 ## CLP for Governments
 The Common Legal Platform with its four layers is attractive for governments and governmental authorities as well. As authorities often face the same or similar challenges as companies, when it comes up to digital transformation, the CLP can be an ideal conceptual or implementational framework. Therefore, the CLP is not at all restricted to companies from the private sector. In fact, as discussed below, many synergies will be leveraged once the CLP is adapted by many different players. 
 
-<img src="images/CLP_gov.png" width="40%">
+<p align="center"><img src="images/CLP_gov.png" width="40%"></p>
 
 ### A White-box View on the CLP for Governments
 Similarly, as the CLP contributes positively within companies, the CLP allows governmental authorities to streamline processes and data flows. New processes and workflows across authorities can be installed based on the interoperability of services and functionality arising from the four different layers. But also, more low-level, and less disruptive innovation is possible more easily, such as decreased effort in sharing data and information or other more technological resources. The reuse of (software) applications in similar scenarios, but other authorities is made possible as the CLP provides a common frame of references.  
 
-<img src="images/CLP_comp.png" width="40%">
+<p align="center"><img src="images/CLP_comp.png" width="40%"></p>
 
 ## Cross-Industry Synergies from the CLP
 Most synergies can be leveraged once the CLP is installed throughout cooperating and competing parties within the same market. The CLP streamlines the commonalities between companies and participants of the market.  
