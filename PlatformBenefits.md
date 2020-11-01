@@ -39,7 +39,7 @@ The Common Legal Platform with its four layers is attractive for governments and
 ### A White-box View on the CLP for Governments
 Similarly, as the CLP contributes positively within companies, the CLP allows governmental authorities to streamline processes and data flows. New processes and workflows across authorities can be installed based on the interoperability of services and functionality arising from the four different layers. But also, more low-level, and less disruptive innovation is possible more easily, such as decreased effort in sharing data and information or other more technological resources. The reuse of (software) applications in similar scenarios, but other authorities is made possible as the CLP provides a common frame of references.  
 
-<p align="center"><img src="images/CLP_comp.png" width="40%"></p>
+<p align="center"><img src="images/CLP_gov_whitebox.png" width="40%"></p>
 
 ## Cross-Industry Synergies from the CLP
 Most synergies can be leveraged once the CLP is installed throughout cooperating and competing parties within the same market. The CLP streamlines the commonalities between companies and participants of the market.  
