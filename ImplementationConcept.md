@@ -64,6 +64,7 @@ The white-box view unveils different components within the different layers. The
 * Court Case Management System 
 * Legal Project Management System 
 * Workflow Management System 
+* [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
 * ... 
 
 ### Data layer 
