@@ -16,7 +16,7 @@ Editing: Roger Strathausen
   * [D. Establishing a governance structure for administrating the Common Legal Platform](Principles.md#d-establishing-a-governance-structure-for-administrating-the-common-legal-platform)
 - [Concept for Implementation](ImplementationConcept.md)
   * [Four Layers of a CLP](ImplementationConcept.md#four-layers-of-a-clp)
-  * [A White-box View on the Foure Layers of a CLP](ImplementationConcept.md#a-white-box-view-on-the-foure-layers-of-a-clp)
+  * [A White-box View on the Four Layers of a CLP](ImplementationConcept.md#a-white-box-view-on-the-four-layers-of-a-clp)
   * [Compatibility and Interoperability of Components within the same Layer ](ImplementationConcept.md#compatibility-and-interoperability-of-components-within-the-same-layer)
   * [Compatibility and Interoperability of Components between different Layers ](ImplementationConcept.md#compatibility-and-interoperability-of-components-between-different-layers)
 - [Platform Benefits](PlatformBenefits.md)
