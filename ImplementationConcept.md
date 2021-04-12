@@ -48,6 +48,7 @@ The white-box view unveils different components within the different layers. The
 ### Business and utilization layer 
 
 * (Innovative) Business models 
+* [Legal Inhouse Processes](https://www.liquid-legal-institute.com/workinggroups/legal-in-house-processes/)
 * Legal Core Processes 
 * Legal Support Processes 
 * Functional Management Processes 
@@ -64,10 +65,12 @@ The white-box view unveils different components within the different layers. The
 * Court Case Management System 
 * Legal Project Management System 
 * Workflow Management System 
+* [Contract Lifecycle Management](https://www.liquid-legal-institute.com/workinggroups/clm-vendor/)
 * [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
 * ... 
 
 ### Data layer 
+* [Legal Ontologies](https://github.com/Liquid-Legal-Institute/Legal-Ontologies)
 * Legal Documents 
 * Knowledge (including Clauses) 
 * Contracts and Policies 
